@@ -150,7 +150,7 @@ Educativo y de Aprendizaje Personal
 # Cluster
 16. ¿Qué son los Clusteres?
     ```bash
-   Los clústeres son sistemas que manejan recursos de manera eficiente, permitiendo que tareas complejas se ejecuten en menos tiempo.
+        Los clústeres son sistemas que manejan recursos de manera eficiente, permitiendo que tareas complejas se ejecuten en menos tiempo.
 
 17. Tipos de Clusteres
     ```bash
